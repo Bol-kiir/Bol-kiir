@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Bol Kiir
 
-<!--
-**Bol-kiir/Bol-kiir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+-i'm currently learning Ai at Mahanaim College
+-I'm interested in Aim Data science
+-I'm looking to coollaborate on beginner-friendly open source project
 
-Here are some ideas to get you started:
+## Skills I'm building
+- Git and Github
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+ - introduction class
+
+## How to reach me
+Email: bolpetero23@gmail.com
+
+
+  
